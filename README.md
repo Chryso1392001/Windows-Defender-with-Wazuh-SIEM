@@ -1,4 +1,5 @@
 🛡️ 2. Windows Defender + Wazuh SIEM Integration
+
 Centralized Windows Defender events across multiple Windows endpoints using Wazuh, enhancing visibility and enabling automated incident response.
 
 🔧 Highlights:
